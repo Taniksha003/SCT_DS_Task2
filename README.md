@@ -26,19 +26,12 @@ Popular Products: Highlighted top product categories and their contribution to r
 
 Seasonal Trends: Discovered purchase spikes during specific times of the year.
 
-Repository Structure
-
-dashboards/: Power BI dashboard files (.pbix).
-
-data/: Dataset used for visualization.
-
-screenshots/: Images of the dashboards and key visualizations.
 
 How to Explore
 
 Clone this repository.
 
-git clone [repository link]
+git clone [https://github.com/Taniksha003/SCT_DS_Task2]
 
-Open the Power BI dashboard file (Ecommerce_Dashboard.pbix) in Power BI Desktop.
+
 
